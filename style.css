@@ -1,0 +1,39 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+.bg1{
+    background-size: cover;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)),url(https://assets-global.website-files.com/6450db8bd9c6bf0768d993fe/64b4ccb6e72d81d58725fe79_bg.webp);
+
+}
+.topp{
+    padding-top: 150px;
+}
+h1{
+    font-size: 60px;
+}
+button.navbar-toggler{
+   background-color:  white;
+}
+.g{
+    width: 50px;
+}
+.bann{
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+}
+.ww{
+    width: 70px;
+    height: 70px;
+}
+.bg2{
+    background: linear-gradient(157deg, #193862, #1d2939 56%);
+    background-size: cover;
+}
+.l{
+text-align:start;
+}
+.x{
+    border: 2px solid skyblue;
+    
+}
